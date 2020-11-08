@@ -2,3 +2,4 @@
 This is my repository for **Tools in Computer Science** :computer:
 * Individual tasks :books:
 * Tests :clipboard:
+* Exploring Github options :octocat:
